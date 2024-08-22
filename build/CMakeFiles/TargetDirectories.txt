@@ -1,0 +1,3 @@
+C:/Users/adith/Dev/ray_tracer_1w/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/adith/Dev/ray_tracer_1w/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/adith/Dev/ray_tracer_1w/build/ray_tracer_1w/CMakeFiles/ray_tracer_1w.dir
