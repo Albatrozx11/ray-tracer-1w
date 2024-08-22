@@ -47,6 +47,13 @@ public:
 
 };
 
+//alias for a point in 3D space
+
+using point3 = vec3;
+
+
+//vector utility functions
+
 inline std::ostream& operator<<(std::ostream stream, const vec3& other) {
 	return std::cout << other.e[0] << "," << other.e[1] << "," << other.e[2] << "\n";
 }
