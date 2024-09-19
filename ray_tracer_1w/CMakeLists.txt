@@ -3,7 +3,7 @@
 #
 
 # Add source to this project's executable.
-add_executable (ray_tracer_1w "main.cpp" "ray_tracer_1w.h" "vec3.h" "color.h")
+add_executable (ray_tracer_1w "main.cpp" "ray_tracer_1w.h" "vec3.h" "color.h" "ray.h")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET ray_tracer_1w PROPERTY CXX_STANDARD 20)

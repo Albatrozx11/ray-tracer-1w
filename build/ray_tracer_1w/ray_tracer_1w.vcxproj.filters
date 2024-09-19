@@ -15,6 +15,9 @@
     <ClInclude Include="C:\Users\adith\Dev\ray_tracer_1w\ray_tracer_1w\color.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="C:\Users\adith\Dev\ray_tracer_1w\ray_tracer_1w\ray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\adith\Dev\ray_tracer_1w\ray_tracer_1w\CMakeLists.txt" />

@@ -328,6 +328,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClInclude Include="C:\Users\adith\Dev\ray_tracer_1w\ray_tracer_1w\ray_tracer_1w.h" />
     <ClInclude Include="C:\Users\adith\Dev\ray_tracer_1w\ray_tracer_1w\vec3.h" />
     <ClInclude Include="C:\Users\adith\Dev\ray_tracer_1w\ray_tracer_1w\color.h" />
+    <ClInclude Include="C:\Users\adith\Dev\ray_tracer_1w\ray_tracer_1w\ray.h" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\adith\Dev\ray_tracer_1w\build\ZERO_CHECK.vcxproj">
